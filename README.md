@@ -1,2 +1,2 @@
-# workshop
+# NGS workshop
 ngs workshop
